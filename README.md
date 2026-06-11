@@ -1,6 +1,6 @@
 # CPU + RAM LCD Display
 
-Live PC stats on a 16×2 LCD — CPU, RAM, WiFi name, and ping — via Arduino.
+Live PC stats on a 16×2 LCD: CPU, RAM, WiFi name, and ping all via Arduino.
 
 ![Wiring diagram](images+demo/17-8.webp)
 
